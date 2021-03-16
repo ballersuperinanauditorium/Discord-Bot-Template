@@ -36,4 +36,4 @@ require('http')
 	.listen(3000);
 
 // Login
-client.login("ODE2NjkyNTAxMDI4NTM2MzQw.YD-qKQ.5DWE_Euo5HcAp4wPTcSjUMQoDzk");
+client.login("YOUR-TOKEN-HERE");
