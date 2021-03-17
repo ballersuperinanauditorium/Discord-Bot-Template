@@ -1,3 +1,6 @@
+//dankmemer type beat
+//if you are reading this, get to work 
+
 
 const Discord = require('discord.js');
 const got = require('got');
