@@ -1,3 +1,8 @@
+//hi noob at javascript
+//jk im a noob too
+//we can both suck together!
+
+
 const fs = require('fs');
 
 const Discord = require('discord.js');
