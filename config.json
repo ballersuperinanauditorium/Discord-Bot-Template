@@ -5,6 +5,6 @@
   
   "ownerID": "",
 
-  "activityType": "",
-  "activityStatus": "i-help"
+  "activityType": "Set Type of activity here",
+  "activityStatus": "Set Status Here"
 }
