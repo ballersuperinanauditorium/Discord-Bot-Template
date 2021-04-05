@@ -1,5 +1,7 @@
 # Bot template for newbies
 
+FIRST THING CHANGE ``main.js`` TO ``index.js``
+
 welcome to the repository for discord.js bot making. 
 
 There's not a lot to do, first thing you do is you put in your token in the main.js all the way below.
