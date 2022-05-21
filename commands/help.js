@@ -1,10 +1,10 @@
 const Discord = require('discord.js');
 const exampleEmbed = new Discord.MessageEmbed()
 	.setColor('#FFA500')
-	.setTitle('Hello, please help me I am under the water!')
-	.setAuthor('Help Command')
-	.setDescription('Here are the list of commands: INSERT YOUR COMMANDS')
-	.setFooter('bruh u need help?');
+	.setTitle('Help Command')
+	.setAuthor('My Name')
+	.setDescription('Here are the list of commands: "INSERT YOUR COMMANDS"')
+	.setFooter('Imagine needing help');
 
     module.exports.run = async (bot, message, args) => {
         message.reply(exampleEmbed);
@@ -14,7 +14,7 @@ const exampleEmbed = new Discord.MessageEmbed()
 module.exports.config = {
     name: "Help",
     description: "Answers help",
-    usage: "i-help",
+    usage: "!help",
     accessableby: "Members",
     aliases: [""]
 }
