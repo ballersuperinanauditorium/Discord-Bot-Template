@@ -31,9 +31,9 @@ module.exports.run = async (bot, message, args) => {
 };
 
 module.exports.config = {
-	name: 'rmeme',
-	description: "answres meme",
-    usage: "i-rmeme",
+	name: 'meme',
+	description: "answers meme",
+    usage: "!meme",
     accessableby: "Members",
 	aliases: [],
 };
