@@ -1,14 +1,11 @@
 # Bot template for newbies
-
-Real quick, after downloading the files **change ``main.js`` to ``index.js``**. I'm too lazy to do that myself, so you should do it. Everytime ``main.js`` is mentioned, just know that it means ``index.js``.
-
 ## **Welcome to the repository for discord.js bot making.** 
 
 **Setup:**
-There's not a lot to do, first thing you do is you put in your token in the main.js all the way below. Then fill in your prefix in the config.json and you're literaly good to go! 
+There's not a lot to do, first thing you do is you put in your token in the ``index.js`` all the way below. Then fill in your prefix in the config.json and you're literaly good to go! 
 
 **Hosting:**
-Open the powershell window from the folder and do "node main.js". It should be working and fine.
+Open the powershell window from the folder and do ``node index.js``. It should be working and fine.
 I also created some pre-made commands. You can add/edit them as well.
 
 **Commands:** (You can add your own) 
