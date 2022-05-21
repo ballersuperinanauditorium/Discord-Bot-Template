@@ -2,6 +2,6 @@
 //ok fine ill shut up
 
 module.exports = (client) => {
-  console.log(`${client.config.botName} is online.`);
+  console.log(`${client.config.botName} is online. Good job, you did it`);
 	client.user.setActivity(client.config.activityStatus, { type: client.config.activityType })
 };
